@@ -1,5 +1,10 @@
 # 🛍️ Product Review Sentiment Analysis
 
+## 🔗 Live Demo
+
+**Streamlit App:**  
+https://appuct-review-sentiment-analysis.streamlit.app/
+
 ## 1. Problem Definition
 This project analyzes product reviews and classifies them as positive or negative using pretrained models from the Hugging Face Model Hub.
 
