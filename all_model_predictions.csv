@@ -1,0 +1,101 @@
+review,label,DistilBERT_SST2_prediction,DistilBERT_SST2_score,DistilBERT_SST2_raw_label,NLP_Town_Product_prediction,NLP_Town_Product_score,NLP_Town_Product_raw_label,CardiffNLP_RoBERTa_prediction,CardiffNLP_RoBERTa_score,CardiffNLP_RoBERTa_raw_label
+The product quality is excellent and it works perfectly.,positive,positive,0.9998764991760254,POSITIVE,positive,0.8564358949661255,5 STARS,positive,0.9786548018455505,POSITIVE
+I am very happy with this purchase and would recommend it.,positive,positive,0.9998430013656616,POSITIVE,positive,0.7401549220085144,5 STARS,positive,0.9879071116447449,POSITIVE
+The item looks exactly like the pictures and feels well made.,positive,positive,0.9998455047607422,POSITIVE,positive,0.6593657732009888,5 STARS,positive,0.9482854604721069,POSITIVE
+Great product for the price. I am satisfied with my purchase.,positive,positive,0.9998538494110107,POSITIVE,positive,0.6293798685073853,5 STARS,positive,0.9866488575935364,POSITIVE
+The product arrived on time and works better than expected.,positive,positive,0.9990737438201904,POSITIVE,positive,0.5921618938446045,5 STARS,positive,0.974901020526886,POSITIVE
+I love the design and the quality is better than I expected.,positive,positive,0.9998641014099121,POSITIVE,positive,0.6598806977272034,5 STARS,positive,0.9862934350967407,POSITIVE
+This is one of the best purchases I have made recently.,positive,positive,0.9998086094856262,POSITIVE,positive,0.9392029643058777,5 STARS,positive,0.9858988523483276,POSITIVE
+The item is easy to use and performs very well.,positive,positive,0.9998716115951538,POSITIVE,positive,0.5697603821754456,5 STARS,positive,0.9762380123138428,POSITIVE
+Excellent quality and fast delivery. I have no complaints.,positive,positive,0.9998158812522888,POSITIVE,positive,0.9090358018875122,5 STARS,positive,0.9674518704414368,POSITIVE
+"The product is durable, useful, and worth the money.",positive,positive,0.9998284578323364,POSITIVE,positive,0.49444934725761414,5 STARS,positive,0.9374392628669739,POSITIVE
+I am impressed with how well this product works.,positive,positive,0.9998427629470825,POSITIVE,positive,0.6688886284828186,5 STARS,positive,0.9841811656951904,POSITIVE
+Everything was as described and the product feels premium.,positive,positive,0.9983199238777161,POSITIVE,positive,0.6310211420059204,5 STARS,positive,0.9013157486915588,POSITIVE
+Very happy with the performance and overall quality.,positive,positive,0.9998804330825806,POSITIVE,positive,0.686236560344696,5 STARS,positive,0.9833223819732666,POSITIVE
+The product exceeded my expectations. Highly recommended.,positive,positive,0.999836802482605,POSITIVE,positive,0.90311199426651,5 STARS,positive,0.9846721291542053,POSITIVE
+Good value for money and the item works perfectly.,positive,positive,0.9998680353164673,POSITIVE,positive,0.6522131562232971,5 STARS,positive,0.958381712436676,POSITIVE
+"I really like this product. It is simple, useful, and reliable.",positive,positive,0.9998607635498047,POSITIVE,positive,0.7092267870903015,5 STARS,positive,0.9850386381149292,POSITIVE
+The quality is fantastic and I would buy it again.,positive,positive,0.9998733997344971,POSITIVE,positive,0.7615556716918945,5 STARS,positive,0.981010377407074,POSITIVE
+Perfect product for my needs. It arrived in excellent condition.,positive,positive,0.9997199177742004,POSITIVE,positive,0.8878472447395325,5 STARS,positive,0.9811456799507141,POSITIVE
+This item is much better than I expected for the price.,positive,positive,0.9995768666267395,POSITIVE,positive,0.6212519407272339,5 STARS,positive,0.9728303551673889,POSITIVE
+I am satisfied with the purchase and the product works great.,positive,positive,0.9998735189437866,POSITIVE,positive,0.5576232671737671,5 STARS,positive,0.9849697351455688,POSITIVE
+Excellent item with a nice design and strong build quality.,positive,positive,0.9998780488967896,POSITIVE,positive,0.8875473141670227,5 STARS,positive,0.9799067378044128,POSITIVE
+The product is reliable and easy to use every day.,positive,positive,0.9998039603233337,POSITIVE,positive,0.5484530925750732,5 STARS,positive,0.9608662128448486,POSITIVE
+I received exactly what I ordered and I am very pleased.,positive,positive,0.9998636245727539,POSITIVE,positive,0.8638871908187866,5 STARS,positive,0.9864205121994019,POSITIVE
+This purchase was worth it. The product is excellent.,positive,positive,0.9998812675476074,POSITIVE,positive,0.7831457853317261,5 STARS,positive,0.9863086342811584,POSITIVE
+Very good quality and the product performs as advertised.,positive,positive,0.9998551607131958,POSITIVE,positive,0.6422486305236816,5 STARS,positive,0.9661707878112793,POSITIVE
+I am impressed by the materials and the overall finish.,positive,positive,0.9998699426651001,POSITIVE,positive,0.4841018617153168,5 STARS,positive,0.9754813313484192,POSITIVE
+The item works smoothly and feels very durable.,positive,positive,0.9998655319213867,POSITIVE,positive,0.6512134075164795,5 STARS,positive,0.9603891968727112,POSITIVE
+Great quality product. It was packaged well and arrived safely.,positive,positive,0.9998162388801575,POSITIVE,positive,0.8398343324661255,5 STARS,positive,0.9775997996330261,POSITIVE
+I have used it several times and it has worked perfectly.,positive,positive,0.9998694658279419,POSITIVE,positive,0.8125308752059937,5 STARS,positive,0.9598080515861511,POSITIVE
+Fantastic purchase. The product is practical and well designed.,positive,positive,0.9998817443847656,POSITIVE,positive,0.918250322341919,5 STARS,positive,0.9866510629653931,POSITIVE
+The product is easy to operate and has been very reliable.,positive,positive,0.9998169541358948,POSITIVE,positive,0.6082419753074646,5 STARS,positive,0.9635964035987854,POSITIVE
+I am happy with the quality and the reasonable price.,positive,positive,0.9998667240142822,POSITIVE,positive,0.510154128074646,5 STARS,positive,0.9552904367446899,POSITIVE
+This item feels sturdy and works exactly as described.,positive,positive,0.9997714161872864,POSITIVE,positive,0.7302204966545105,5 STARS,positive,0.896921694278717,POSITIVE
+Excellent purchase. I have recommended it to my friends.,positive,positive,0.9998737573623657,POSITIVE,positive,0.906653642654419,5 STARS,positive,0.9836660623550415,POSITIVE
+The product is comfortable to use and the quality is impressive.,positive,positive,0.9998865127563477,POSITIVE,positive,0.5036200881004333,5 STARS,positive,0.9804272651672363,POSITIVE
+Very satisfied with this item. It does exactly what I need.,positive,positive,0.9998477697372437,POSITIVE,positive,0.7426285147666931,5 STARS,positive,0.9847860932350159,POSITIVE
+The product arrived in perfect condition and works beautifully.,positive,positive,0.9998761415481567,POSITIVE,positive,0.8106911182403564,5 STARS,positive,0.9818980097770691,POSITIVE
+I expected good quality and this product delivered.,positive,positive,0.9996082186698914,POSITIVE,positive,0.46287041902542114,5 STARS,positive,0.8254374265670776,POSITIVE
+Really useful product and excellent overall performance.,positive,positive,0.9998751878738403,POSITIVE,positive,0.7932502031326294,5 STARS,positive,0.9745438098907471,POSITIVE
+"I like everything about this item, especially the build quality.",positive,positive,0.9998396635055542,POSITIVE,positive,0.5810874104499817,5 STARS,positive,0.9837905764579773,POSITIVE
+The item is affordable and still feels high quality.,positive,positive,0.999648928642273,POSITIVE,positive,0.4914079010486603,4 STARS,positive,0.9351611733436584,POSITIVE
+This product has made my daily routine much easier.,positive,positive,0.8490214347839355,POSITIVE,positive,0.6815718412399292,5 STARS,positive,0.9771317839622498,POSITIVE
+Great purchase with excellent quality and dependable performance.,positive,positive,0.9998749494552612,POSITIVE,positive,0.8111893534660339,5 STARS,positive,0.9738280177116394,POSITIVE
+I am pleasantly surprised by how good this product is.,positive,positive,0.9998728036880493,POSITIVE,positive,0.5933164358139038,5 STARS,positive,0.9860935211181641,POSITIVE
+The product looks great and functions without any problems.,positive,positive,0.9997792840003967,POSITIVE,positive,0.6713383793830872,5 STARS,positive,0.9687569737434387,POSITIVE
+Very pleased with the purchase. The item is exactly as described.,positive,positive,0.9998645782470703,POSITIVE,positive,0.8149713277816772,5 STARS,positive,0.9858770370483398,POSITIVE
+This is a high-quality product and definitely worth buying.,positive,positive,0.999879002571106,POSITIVE,positive,0.8612784743309021,5 STARS,positive,0.9841508865356445,POSITIVE
+The product performs consistently and feels well constructed.,positive,positive,0.9998472929000854,POSITIVE,positive,0.5520868301391602,5 STARS,positive,0.9351646304130554,POSITIVE
+I would happily purchase this product again.,positive,positive,0.9993626475334167,POSITIVE,positive,0.5552782416343689,5 STARS,positive,0.9598092436790466,POSITIVE
+Excellent experience with the product. It is useful and reliable.,positive,positive,0.9998751878738403,POSITIVE,positive,0.7732789516448975,5 STARS,positive,0.9808399081230164,POSITIVE
+The product quality is very poor and it stopped working quickly.,negative,negative,0.999805748462677,NEGATIVE,negative,0.5265529751777649,1 STAR,negative,0.9448823928833008,NEGATIVE
+I regret buying this item because it does not work properly.,negative,negative,0.9997844099998474,NEGATIVE,negative,0.6422182321548462,1 STAR,negative,0.9436647891998291,NEGATIVE
+The product looks cheap and feels poorly made.,negative,negative,0.9998202919960022,NEGATIVE,negative,0.4886834919452667,1 STAR,negative,0.9384356737136841,NEGATIVE
+Very disappointed with this purchase. The item is not useful.,negative,negative,0.999824583530426,NEGATIVE,negative,0.8003915548324585,1 STAR,negative,0.937227189540863,NEGATIVE
+The product arrived late and was not working when I opened it.,negative,negative,0.9997879862785339,NEGATIVE,negative,0.605299174785614,1 STAR,negative,0.8783528804779053,NEGATIVE
+"The design looks good, but the quality is terrible.",negative,negative,0.9808196425437927,NEGATIVE,negative,0.5044523477554321,2 STARS,negative,0.9088846445083618,NEGATIVE
+This is one of the worst purchases I have made.,negative,negative,0.9997859597206116,NEGATIVE,negative,0.9305375218391418,1 STAR,negative,0.9494438767433167,NEGATIVE
+The item is difficult to use and does not perform well.,negative,negative,0.9997840523719788,NEGATIVE,negative,0.46962136030197144,2 STARS,negative,0.9230703711509705,NEGATIVE
+Poor quality and disappointing performance. I would not recommend it.,negative,negative,0.9996957778930664,NEGATIVE,negative,0.5252716541290283,1 STAR,negative,0.939535915851593,NEGATIVE
+The product feels fragile and definitely not worth the money.,negative,negative,0.9998010993003845,NEGATIVE,negative,0.5224767923355103,1 STAR,negative,0.9256942272186279,NEGATIVE
+I am disappointed with how badly this product works.,negative,negative,0.9998180270195007,NEGATIVE,negative,0.5447075366973877,2 STARS,negative,0.9510321021080017,NEGATIVE
+The item was different from the description and feels cheap.,negative,negative,0.9997280240058899,NEGATIVE,negative,0.5010733008384705,2 STARS,negative,0.7579042911529541,NEGATIVE
+Very unhappy with the performance and overall quality.,negative,negative,0.9997773766517639,NEGATIVE,negative,0.5030486583709717,2 STARS,negative,0.9259146451950073,NEGATIVE
+The product did not meet my expectations at all.,negative,negative,0.9997794032096863,NEGATIVE,negative,0.46827274560928345,2 STARS,negative,0.893779456615448,NEGATIVE
+Bad value for money. The item stopped working after a few days.,negative,negative,0.9997953772544861,NEGATIVE,negative,0.7619745135307312,1 STAR,negative,0.9374818205833435,NEGATIVE
+I do not like this product. It is unreliable and frustrating to use.,negative,negative,0.9992977380752563,NEGATIVE,negative,0.6419200301170349,1 STAR,negative,0.9475048184394836,NEGATIVE
+The quality is terrible and I would not buy it again.,negative,negative,0.999388575553894,NEGATIVE,negative,0.5965424180030823,1 STAR,negative,0.9450388550758362,NEGATIVE
+The product arrived damaged and cannot be used properly.,negative,negative,0.9997991919517517,NEGATIVE,negative,0.7255807518959045,1 STAR,negative,0.9199399948120117,NEGATIVE
+This item is much worse than I expected for the price.,negative,negative,0.9997768998146057,NEGATIVE,negative,0.4754962623119354,2 STARS,negative,0.9455973505973816,NEGATIVE
+I am not satisfied with the purchase and the product works poorly.,negative,negative,0.9997878670692444,NEGATIVE,negative,0.4727114140987396,1 STAR,negative,0.9439471364021301,NEGATIVE
+Poor quality item with a weak design and bad build.,negative,negative,0.9997952580451965,NEGATIVE,negative,0.5680728554725647,1 STAR,negative,0.9328194856643677,NEGATIVE
+The product is unreliable and difficult to use every day.,negative,negative,0.999546229839325,NEGATIVE,negative,0.5572806000709534,1 STAR,negative,0.9264963269233704,NEGATIVE
+I received an item that does not match what I ordered.,negative,negative,0.9997877478599548,NEGATIVE,negative,0.5135707855224609,1 STAR,negative,0.8439568877220154,NEGATIVE
+This purchase was a waste of money. The product is disappointing.,negative,negative,0.9998255372047424,NEGATIVE,negative,0.7273834943771362,1 STAR,negative,0.9387286901473999,NEGATIVE
+The item does not perform as advertised and feels low quality.,negative,negative,0.9994651675224304,NEGATIVE,negative,0.6195639371871948,1 STAR,negative,0.920723021030426,NEGATIVE
+I am disappointed by the materials and the poor finish.,negative,negative,0.9998212456703186,NEGATIVE,negative,0.5919846296310425,2 STARS,negative,0.9260436296463013,NEGATIVE
+The product stopped working after only a few uses.,negative,negative,0.9997121691703796,NEGATIVE,negative,0.5022405982017517,1 STAR,negative,0.8096688985824585,NEGATIVE
+Bad quality product. It was poorly packaged and arrived damaged.,negative,negative,0.9997778534889221,NEGATIVE,negative,0.7926463484764099,1 STAR,negative,0.936382532119751,NEGATIVE
+I have used it several times and it keeps failing.,negative,negative,0.999762237071991,NEGATIVE,negative,0.44587254524230957,2 STARS,negative,0.8802081346511841,NEGATIVE
+Terrible purchase. The product is impractical and poorly designed.,negative,negative,0.999809205532074,NEGATIVE,negative,0.8531899452209473,1 STAR,negative,0.9480080008506775,NEGATIVE
+The product is hard to operate and has been unreliable.,negative,negative,0.9997175335884094,NEGATIVE,negative,0.4913797378540039,2 STARS,negative,0.9228856563568115,NEGATIVE
+I am unhappy with the quality and the high price.,negative,negative,0.9995390176773071,NEGATIVE,negative,0.5670920610427856,2 STARS,negative,0.9200396537780762,NEGATIVE
+This item feels weak and does not work as described.,negative,negative,0.9997801184654236,NEGATIVE,negative,0.7185260057449341,1 STAR,negative,0.9278435707092285,NEGATIVE
+Very disappointing purchase. I would not recommend this product.,negative,negative,0.9995929598808289,NEGATIVE,negative,0.7771357893943787,1 STAR,negative,0.9338314533233643,NEGATIVE
+The product is uncomfortable to use and the quality is poor.,negative,negative,0.9998119473457336,NEGATIVE,negative,0.4832102954387665,2 STARS,negative,0.9453920125961304,NEGATIVE
+I am not satisfied with this item. It does not do what I need.,negative,negative,0.9997394680976868,NEGATIVE,negative,0.47098657488822937,2 STARS,negative,0.9344594478607178,NEGATIVE
+The product arrived damaged and performs badly.,negative,negative,0.9996302127838135,NEGATIVE,negative,0.6503071784973145,1 STAR,negative,0.9316405653953552,NEGATIVE
+I expected much better quality from this product.,negative,negative,0.9964392781257629,NEGATIVE,negative,0.5173571705818176,2 STARS,positive,0.4514606297016144,POSITIVE
+This product is not useful and the performance is poor.,negative,negative,0.9998016953468323,NEGATIVE,negative,0.6268354058265686,1 STAR,negative,0.9381041526794434,NEGATIVE
+"I dislike this item, especially because of its weak build quality.",negative,negative,0.9996808767318726,NEGATIVE,negative,0.578060507774353,2 STARS,negative,0.9486228227615356,NEGATIVE
+The item is expensive but still feels very low quality.,negative,negative,0.9982848763465881,NEGATIVE,negative,0.4886060059070587,2 STARS,negative,0.9105976819992065,NEGATIVE
+This product has made my daily routine more difficult.,negative,negative,0.9992187023162842,NEGATIVE,positive,0.42822250723838806,5 STARS,negative,0.907748281955719,NEGATIVE
+Poor purchase with disappointing quality and unreliable performance.,negative,negative,0.9997065663337708,NEGATIVE,negative,0.5105607509613037,1 STAR,negative,0.927139937877655,NEGATIVE
+"I expected better, but this product is a major disappointment.",negative,negative,0.9997933506965637,NEGATIVE,negative,0.5772294402122498,2 STARS,negative,0.9271295666694641,NEGATIVE
+The product looks bad and has several performance problems.,negative,negative,0.9997920393943787,NEGATIVE,negative,0.49327459931373596,1 STAR,negative,0.9451995491981506,NEGATIVE
+Very unhappy with the purchase. The item is not as described.,negative,negative,0.9997518658638,NEGATIVE,negative,0.7394809722900391,1 STAR,negative,0.9303585886955261,NEGATIVE
+This is a low-quality product and not worth buying.,negative,negative,0.9998101592063904,NEGATIVE,negative,0.6967355012893677,1 STAR,negative,0.943427562713623,NEGATIVE
+The product performs inconsistently and feels poorly constructed.,negative,negative,0.9997925162315369,NEGATIVE,negative,0.5664094686508179,1 STAR,negative,0.9153459072113037,NEGATIVE
+I would not purchase this product again.,negative,negative,0.9969534873962402,NEGATIVE,negative,0.5292332768440247,1 STAR,negative,0.9178363084793091,NEGATIVE
+"The item is disappointing, poorly made, and not worth the money.",negative,negative,0.9998121857643127,NEGATIVE,negative,0.636029064655304,1 STAR,negative,0.9429454803466797,NEGATIVE
