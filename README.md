@@ -1,66 +1,176 @@
 # 🛍️ Product Review Sentiment Analysis
 
-## 🔗 Live Demo
+## About the Project
 
-**Streamlit App:**  
-https://appuct-review-sentiment-analysis.streamlit.app/
+In this project, I used pretrained models from Hugging Face to analyze product reviews.
 
-## 1. Problem Definition
-This project analyzes product reviews and classifies them as positive or negative using pretrained models from the Hugging Face Model Hub.
+The main idea of the project is to see if a review is **Positive** or **Negative** without training a model from scratch.
 
-## 2. Data Collection
-A small evaluation dataset of 100 manually-created product reviews was prepared for this lab: 50 positive and 50 negative examples.
+I also compared different pretrained models to see which one performed better on my dataset.
 
-## 3. Data Preparation
-The dataset contains two columns:
-- `review`
-- `label`
+---
 
-## 4. Model Selection
-Three pretrained Hugging Face models are compared:
-1. `distilbert/distilbert-base-uncased-finetuned-sst-2-english`
-2. `nlptown/bert-base-multilingual-uncased-sentiment`
-3. `cardiffnlp/twitter-roberta-base-sentiment-latest`
+## 🎯 Problem
 
-## 5. Model Card Investigation
-Model-card information is documented in the notebook. Official cards:
-- https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english
-- https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment
-- https://huggingface.co/cardiffnlp/twitter-roberta-base-sentiment-latest
+Many businesses receive a large number of customer reviews, so reading every review manually can take a lot of time.
 
-## 6. Initial Inference Results
-The notebook runs every model on all 100 reviews and stores the label, confidence score, raw label, and the required metadata field.
+In this project, I used pretrained sentiment analysis models to automatically analyze product reviews.
 
-## 7. Evaluation
-Accuracy, Precision, Recall, F1-score, confusion matrices, and inference time are calculated.
+The input is a product review, and the model predicts whether the sentiment is positive or negative.
 
-## 8. Error Analysis
-Misclassified reviews are extracted automatically. At least 10 interesting failures should be discussed in the final report when applicable.
+---
 
-## 9. Model Comparison
-The models are compared using performance, inference speed, model size, language support, training domain, and failure cases.
+## 📊 Dataset
 
-## 10. Limitations
-- The evaluation dataset is small.
-- The reviews are manually created rather than collected from a large real-world source.
-- The evaluation is English-only.
-- Some models were trained on domains different from product reviews.
-- The NLP Town model predicts 1–5 stars and is converted to binary sentiment for this experiment.
-- CardiffNLP has a neutral class; the notebook maps neutral to positive for the binary comparison, which is a limitation.
+I used a dataset called:
 
-## 11. Final Recommendation
-Run the notebook first and replace this section with the actual best model and evidence from the results.
+`product_reviews.csv`
 
-## 12. Future Work / Fine-Tuning Proposal
-A larger real-world product-review dataset could be collected. If performance remains weak, a sentiment model could be fine-tuned on domain-specific product reviews and compared with the original pretrained models.
+The dataset contains **100 product reviews**:
 
-## How to Run
+* 50 Positive reviews
+* 50 Negative reviews
 
-### Notebook
-Open `product_review_sentiment.ipynb` in Google Colab or Jupyter. Upload `product_reviews.csv` to the same working directory, then run the cells from top to bottom.
+I used this dataset to test and evaluate the pretrained models.
 
-### Streamlit
+---
+
+## 🤖 Models Used
+
+I tested three pretrained models from Hugging Face:
+
+### DistilBERT-SST2
+
+`distilbert/distilbert-base-uncased-finetuned-sst-2-english`
+
+### NLP Town BERT
+
+`nlptown/bert-base-multilingual-uncased-sentiment`
+
+### CardiffNLP RoBERTa
+
+`cardiffnlp/twitter-roberta-base-sentiment-latest`
+
+---
+
+## 🔍 What I Did
+
+In the notebook, I:
+
+* Defined the problem
+* Prepared the dataset
+* Selected pretrained models
+* Checked information about the models
+* Ran predictions on the reviews
+* Evaluated the models
+* Used different evaluation metrics
+* Created confusion matrices
+* Checked incorrect predictions
+* Compared the models
+* Looked at possible domain differences
+* Tried Zero-Shot Classification
+* Selected the best model based on the results
+
+---
+
+## 📈 Evaluation
+
+I used the following metrics to evaluate the models:
+
+* Accuracy
+* Precision
+* Recall
+* F1 Score
+* Confusion Matrix
+* Inference Time
+
+---
+
+## 🧪 Zero-Shot Classification
+
+I also tried Zero-Shot Classification using a pretrained Hugging Face model.
+
+I classified product reviews into different topics:
+
+* Product Quality
+* Price and Value
+* Delivery
+* Usability and Performance
+* Description Match
+
+The Zero-Shot model I used was:
+
+`facebook/bart-large-mnli`
+
+---
+
+## 🖥️ Streamlit Application
+
+I created a simple Streamlit application called **Review Mood Checker**.
+
+The user can:
+
+1. Write a product review
+2. Click **Analyze Review**
+3. See if the review is Positive or Negative
+4. See the confidence score
+
+### 🚀 Try the App
+
+[Open Review Mood Checker](https://appuct-review-sentiment-analysis.streamlit.app/?utm_source=chatgpt.com)
+
+---
+
+## 📁 Project Files
+
+```text
+product-review-sentiment/
+│
+├── product_review_sentiment_complete.ipynb
+├── product_reviews.csv
+├── app.py
+├── requirements.txt
+└── README.md
+```
+
+---
+
+## ⚙️ Installation
+
+Install the required libraries using:
+
 ```bash
 pip install -r requirements.txt
+```
+
+---
+
+## ▶️ Running the App
+
+To run the Streamlit application:
+
+```bash
 streamlit run app.py
 ```
+
+---
+
+## 🛠️ Tools and Libraries
+
+For this project, I used:
+
+* Python
+* Pandas
+* Hugging Face Transformers
+* PyTorch
+* Scikit-learn
+* Matplotlib
+* Seaborn
+* Streamlit
+
+---
+
+## 👩‍💻 Author
+
+**Zainab Mohammed**
+**Data Science**
